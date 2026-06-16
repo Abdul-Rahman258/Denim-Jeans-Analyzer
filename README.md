@@ -26,10 +26,10 @@ When you upload an image of a pair of jeans:
 We have optimized this app so that anyone can use it instantly, without needing to install Python, PyTorch, or write a single line of code!
 
 ### Running the App
-1. Download the `dist/gui_app` folder (the packaged application).
-2. Inside the `gui_app` folder, you will see a folder named `ProcessedData`.
-3. Make sure your trained model file (`defect_model.pth`) is placed inside that `ProcessedData` folder.
-4. Double click `gui_app.exe` to launch the application instantly!
+1. Go to the **Releases** section on the right side of this GitHub page.
+2. Download the latest `Denim_Jeans_Analyzer_v1.x.zip` file.
+3. Extract the folder anywhere on your Windows PC.
+4. Double click `gui_app.exe` to launch the application instantly! No installation required.
 
 ### Using the Interface
 * Click **"Select Image"** on the left sidebar to upload an image of denim jeans.
